@@ -13,6 +13,8 @@
 ## Zine poster:
 
 ## Planning:
+<br/> <img width="3300" height="2550" alt="image" src="https://github.com/user-attachments/assets/31a9519b-7033-4feb-bdf9-55effc6028bb" />
+
 
 ## Inspirations:
 <br/> github.com/autowattage/2swap
