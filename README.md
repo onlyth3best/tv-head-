@@ -14,6 +14,8 @@
 
 ## Planning:
 <br/> <img width="3300" height="2550" alt="image" src="https://github.com/user-attachments/assets/31a9519b-7033-4feb-bdf9-55effc6028bb" />
+<img width="1234" height="1162" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/df1e0f3b-9368-4b65-ad6d-8c6993939c29" />
+
 
 
 ## Inspirations:
