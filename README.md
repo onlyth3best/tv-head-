@@ -24,5 +24,7 @@
 
 <br/> <br/>
 <img width="540" height="828" alt="tvPGN" src="https://github.com/user-attachments/assets/758cba72-269f-4a4b-a850-985c9d6d2d2d" />
-[tvPFD.pdf](https://github.com/user-attachments/files/28915822/tvPFD.pdf)
+
+[Frame 1.pdf](https://github.com/user-attachments/files/28915906/Frame.1.pdf)
+
 
