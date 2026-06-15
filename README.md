@@ -31,10 +31,10 @@
 
 ## BOM:
 
-| item | useage | price | link |
-|-------|-------|-------|-------|
-| powerbank | to power rPi5 | 25.35 GBP | https://www.amazon.com/TalentCell-Rechargeable-3000mAh-Lithium-External/dp/B01M7Z9Z1N/ref=pd_sbs_d_sccl_1_1/141-0447386-4768016?pd_rd_w=TvxRT&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=YAF2HBDQ44AEWC1DGGC2&pd_rd_wg=XHP2H&pd_rd_r=2f5c435c-4e04-43f4-b772-a0144cd2a77d&pd_rd_i=B01M7Z9Z1N&psc=1) |
-| rpi5 | run through code etc | 43.2 GBP | [link](https://thepihut.com/products/raspberry-pi-5?srsltid=AfmBOorvxhT4APnP0R8Jfqogvk6vZfXvT2-YQM1uKk0AzkbToZ5_h0JL) |
-| monitor | to display the face | price | link |
-| (lights?) | run around perimeter of the tv-head | price | link |
-| x | x | total price | x |
+| item | useage | price | link | notes |
+|-------|-------|-------|-------|-------|
+| powerbank | to power rPi5 | 34,05 USD | https://www.amazon.com/TalentCell-Rechargeable-3000mAh-Lithium-External/dp/B01M7Z9Z1N | already owned |
+| rpi5 | run through code etc | 58,02 USD | https://thepihut.com/products/raspberry-pi-5 | already owned |
+| USB-C / HDMI cable | to connect the HDMI on the rPi5 to the USB-C on the monitor | 13,5 USD | https://www.alza.cz/EN/alzapower-core-usb-c-to-hdmi-4k-1m-black-d12584780.htm | already owned |
+| monitor | to display the face | 55,88 USD | https://www.ebay.com/itm/168324220253 | not owned |
+| x | x | total price ~ 161.45 USD (prices may vary depending on region) | x |
