@@ -9,7 +9,7 @@
 - stylised for a cosplay ;p
 
 ## Setup
-- Once you build the 3d model, setup the RaspberryPi5 with the pygame code in this repo--
+- Once you build the 3d model with the monitor, setup the RaspberryPi5 with the pygame code in this repo--
 - (NOTE: the code may not be 100% functional as of yet (13/06/2026) because I haven't built the physical model for testing yet ;p)
 
 
