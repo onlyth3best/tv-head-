@@ -24,8 +24,9 @@
 <br/> minbitt.gumroad.com/l/LEDDisplay
 
 ## Zine poster:
-<br/> <img width="540" height="828" alt="tvPGN" src="https://github.com/user-attachments/assets/758cba72-269f-4a4b-a850-985c9d6d2d2d" />
-<br/> [Frame 1.pdf](https://github.com/user-attachments/files/28915906/Frame.1.pdf)
+<br/> [PDFFzineee.pdf](https://github.com/user-attachments/files/29166786/PDFFzineee.pdf)
+<br/> <img width="540" height="828" alt="PNGGzineee" src="https://github.com/user-attachments/assets/ab13e815-f6c8-4292-a99c-31c9786d213c" />
+
 
 
 ## BOM:
